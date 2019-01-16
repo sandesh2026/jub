@@ -1,0 +1,16 @@
+
+What is git rebase? Rebasing is the process of moving or combining a sequence of commits to a new base commit. Rebasing is most useful and easily visualized in the context of a feature branching workflow.
+
+Eclipse -> GitHub -> Jenkins -> Maven -> Docker -> Puppet -> nagios 
+
+GitHub with Jira -> Think.
+SSL certificates -> Think.
+
+Users and Roles -> Create a Role globally -> System
+                   add a user/group to a perticular role in a project
+
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+Interactive vs Standard rebase
+
+
+
